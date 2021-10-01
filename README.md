@@ -8,6 +8,6 @@ Repositório criado com o intuito de divulgar projetos pessoais.Lembre-se de seg
 
  ### **Para contribuir, você pode:**
 
-- Adicionar um arquivo em markdown com o seu **nome**, **descrição do projeto** e colocar o **link do Github do projeto**. 
+- Adicionar um arquivo em markdown com o seu **nome**, **descrição do projeto** e colocar o **link do Github do projeto**, para mais detalhes acesse nosso [guia de contribuição](https://github.com/elasComputacao/ElasDivulgam/blob/main/CONTRIBUTING.md). 
 
 > **Pode seguir os exemplos já feitos aqui.**
