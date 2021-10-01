@@ -5,7 +5,7 @@
  src="https://user-images.githubusercontent.com/50140771/128561548-3a8d25e1-c2a3-46ef-94f7-4447fcdc0a97.png"/> 
 </p>
 
-## Apresentação 
+## :scroll: Apresentação 
 
 Olá gente!!! :heart: 
 
@@ -16,6 +16,7 @@ e CoreTeam da organização [OpenDev](https://opendevufcg.org/).
 > **E gostaria de apresentar o SoLanches à vocês...**
 
 ### 📎 Índice
+- [Apresentação](#scroll-Apresentação)
 - [O que é o Solanches?](https://github.com/SoLanches/Frontend-SoLanches/blob/main/README.md#-o-que-%C3%A9-o-solanches)
 - [Funcionalidades](https://github.com/SoLanches/Frontend-SoLanches/blob/main/README.md#computer-funcionalidades)
   - [Funcionalidades destinadas aos comércios](https://github.com/SoLanches/Frontend-SoLanches/blob/main/README.md#convenience_store-funcionalidades-destinadas-aos-com%C3%A9rcios)
