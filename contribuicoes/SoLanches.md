@@ -25,6 +25,7 @@ e CoreTeam da organização [OpenDev](https://opendevufcg.org/).
  - [API SoLanches](https://github.com/SoLanches/Frontend-SoLanches/blob/main/README.md#%EF%B8%8F-api-solanches)
  - [Tecnologias utilizadas](https://github.com/SoLanches/Frontend-SoLanches/blob/main/README.md#gear-tecnologias-utilizadas)
  - [Equipe do Solanches](https://github.com/SoLanches/Frontend-SoLanches/blob/main/README.md#-equipe-do-solanches)
+ - [Como Contribuir?](#handshake-Como-contribuir?)
  
 
 O SoLanches é um sistema web, criado e desenvolvido durante a disciplina de *Engenharia de Software do curso de Ciência da Computação
@@ -99,5 +100,8 @@ Nossa API pode ser encontrada [nesse link](https://github.com/SoLanches/API-SoLa
 - [Mariana Nascimento](https://github.com/marianasn)
 - [Rodrigo Eloy](https://github.com/RodrigoEC)
 
+## :handshake: Como contribuir? 
+Ficou interessada ou interessado ? 
+Já aproveita e acessa [o nosso repositório](https://github.com/SoLanches/Frontend-SoLanches.git).
 
-Ficou interessada ou interessado ? Entra em contato com equipe que está listada acima e aproveita e acessa [o nosso repositório](https://github.com/SoLanches/Frontend-SoLanches.git) e vamos juntas(os)!!!
+Para contribuir, primeiramente você pode ver as *issues* cadastradas e logo após pode pedir o *assign* à equipe do SoLanches, você pode também em contato com equipe que está listada acima e vamos juntas(os)!!!
