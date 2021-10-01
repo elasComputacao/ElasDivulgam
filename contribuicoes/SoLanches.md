@@ -13,7 +13,7 @@ Me chamo Leandra Oliveira, tenho 21 anos e atualmente estou cursando disciplinas
 de *Ciência da Computação na UFCG*, além disso, sou coordenadora do [Elas@Computação](https://elas.computacao.ufcg.edu.br/) 
 e CoreTeam da organização [OpenDev](https://opendevufcg.org/). 
 
-E gostaria de apresentar o SoLanches à vocês...
+> **E gostaria de apresentar o SoLanches à vocês...**
 
 ### 📎 Índice
 - [O que é o Solanches?](https://github.com/SoLanches/Frontend-SoLanches/blob/main/README.md#-o-que-%C3%A9-o-solanches)
