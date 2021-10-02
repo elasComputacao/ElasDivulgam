@@ -47,7 +47,10 @@ seu funcionamento e das normas atuais do curso.**
 Caso você esteja interessada(o)(e) no projeto e queira contribuir para algum dos projetos do HoCo por favor dê uma olhada nas [**issues**](https://github.com/Guardians-DSC/Front-HoCo/issues) de cada projeto, se você achou uma issue que lhe interessa leia os documentos de **[Código de conduta](https://github.com/Guardians-DSC/Front-HoCo/blob/main/CODE_OF_CONDUCT.md)** e **[Contribuindo](https://github.com/Guardians-DSC/Front-HoCo/blob/main/CONTRIBUTING.md)** para saber mais detalhes.
 
 ⚠️ Ainda estamos trabalhando no projeto, caso você queira acompanhar o avanço do repositório dê um estrelinha ⭐ 
-para você não perder as atualizações do [nosso repositório](https://github.com/Guardians-DSC/Front-HoCo.git).
+para você não perder as atualizações do [nosso repositório](https://github.com/Guardians-DSC/Front-HoCo.git). 
+
+:computer: Além disso o nosso site **já está no ar**,
+e você pode [acessá-lo neste link](https://hoco.netlify.app).
 
 ## :pushpin: Mantenedores
 
