@@ -1,7 +1,7 @@
 # :clock3: O HoCo
 
 <p align=center>
-  <img width=350 src='https://user-images.githubusercontent.com/50140771/135698684-ecb7bbf6-7e12-4707-9720-fef11c87ffe6.png'/>
+  <img width=350 src='https://user-images.githubusercontent.com/50140771/135698912-044ca3e8-8b8e-4612-a1b7-13f1482efa42.png'/>
 </p>
 
 <br/>
