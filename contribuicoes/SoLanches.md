@@ -86,7 +86,7 @@ Nossa API pode ser encontrada [nesse link](https://github.com/SoLanches/API-SoLa
 - 📝 [Ant Design](https://ant.design/docs/react/introduce)
 - :wrench: [Axios](https://axios-http.com/docs/intro)
 
-## :pushpin: Equipe do SoLanches
+## :pushpin: Maintainers do SoLanches
 - [Ana Carolina](https://github.com/anacarolinacv)
 - [Daniel Gomes](https://github.com/dnlgomesl)
 - [Eduardo Afonso](https://github.com/EduardoNunes5)
