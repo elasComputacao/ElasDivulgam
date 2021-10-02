@@ -20,7 +20,7 @@ Olá gente!!! :heart:
 
 Me chamo Leandra Oliveira, tenho 21 anos e atualmente estou cursando disciplinas do quinto período do curso 
 de *Ciência da Computação na UFCG*, além disso, sou coordenadora do [Elas@Computação](https://elas.computacao.ufcg.edu.br/)
-CoreTeam da organização [OpenDev](https://opendevufcg.org/) e também participo dos [Guardians]() como mantenedora do projeto HoCo.
+CoreTeam da organização [OpenDev](https://opendevufcg.org/) e também participo dos [Guardians](https://github.com/Guardians-DSC) como mantenedora do projeto HoCo.
 
 > **Inclusive, gostaria de apresentar o HoCo à vocês...**
 
